@@ -1,0 +1,5 @@
+{
+    "sketch": "blinks-orientation-example.ino",
+    "board": "move38:avr:blink",
+    "port": "/dev/ttyUSB0"
+}
